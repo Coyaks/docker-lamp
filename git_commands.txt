@@ -1,6 +1,6 @@
 git status
 git add .
-git commit -m "add -dockerignore"
+git commit -m "add extensiones de PHP en el Dockerfile"
 git push
 git log -2
 
