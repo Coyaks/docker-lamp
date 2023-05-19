@@ -1,6 +1,6 @@
 git status
 git add .
-git commit -m "Refactor"
+git commit -m "add -dockerignore"
 git push
 git log -2
 
